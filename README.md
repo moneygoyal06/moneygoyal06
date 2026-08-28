@@ -1,3 +1,5 @@
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/main/dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/main/light.svg"> <img alt="Money Goyal" src="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/main/light.svg"> </picture>
+
 <h1 align="center">Hi 👋, I'm Money Goyal</h1>
 
 <h3 align="center">
