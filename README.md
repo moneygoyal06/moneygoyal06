@@ -14,9 +14,6 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/moneygoyal06">
-    <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/money-goyal-b999b9309/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -40,19 +37,23 @@
 
 ## 🛠️ Skills & Technologies
 
-### Programming
+### 💻 Programming
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### Areas of Interest
+### 🤖 Areas of Interest
+
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-A78BFA?style=for-the-badge">
   <img src="https://img.shields.io/badge/Data%20Analysis-22D3EE?style=for-the-badge">
   <img src="https://img.shields.io/badge/Database%20Management-10B981?style=for-the-badge">
   <img src="https://img.shields.io/badge/HR%20Management-64748B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Content%20Writing-64748B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Team%20Leadership-A78BFA?style=for-the-badge">
 </p>
 
 ---
@@ -68,6 +69,25 @@
   <img width="49%" src="https://github-readme-stats-evm4jy572-moneygoyal06.vercel.app/api?username=moneygoyal06&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
 
   <img width="49%" src="https://github-readme-stats-evm4jy572-moneygoyal06.vercel.app/api/top-langs/?username=moneygoyal06&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/output/github-snake-dark.svg" />
+
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/output/github-snake.svg" />
+
+    <img alt="Snake eating my contributions"
+      src="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/output/github-snake.svg" />
+  </picture>
 
 </div>
 
@@ -94,12 +114,6 @@
 ## 🚀 Featured Projects
 
 <!-- Add your best projects here -->
-
----
-
-## 🐍 Contribution Snake
-
-> This section will be enabled after the GitHub Actions workflow is created and the `output` branch is generated.
 
 ---
 
