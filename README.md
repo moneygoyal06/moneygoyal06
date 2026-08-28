@@ -1,4 +1,6 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/main/dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/main/light.svg"> <img alt="Money Goyal" src="https://raw.githubusercontent.com/moneygoyal06/moneygoyal06/main/light.svg"> </picture>
+<div align="center">
+  <img src="./banner.png" alt="Money Goyal - AI Full-Stack Data" width="100%">
+</div>
 
 <h1 align="center">Hi 👋, I'm Money Goyal</h1>
 
