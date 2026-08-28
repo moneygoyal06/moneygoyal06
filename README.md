@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Money Goyal - AI Full-Stack Data" width="100%">
+  <img src="./banner.png.png" alt="Money Goyal - AI Full-Stack Data" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Money Goyal</h1>
